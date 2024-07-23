@@ -1,4 +1,4 @@
-# Teaching DataBase  
+# Teaching Database  
 
 ## I am working as a language teacher on the side. I created a database to store student information and teaching material such as ideas and links. I use the database to store useful information, retrieve material for lessons and for creating student statistics.
 
