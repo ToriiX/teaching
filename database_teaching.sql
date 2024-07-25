@@ -10,6 +10,7 @@ CREATE TABLE student_info (
     gender VARCHAR(1),
     country_from VARCHAR,
     country_living VARCHAR,
+    reason VARCHAR,
     start_date  DATE,
     student_level_start VARCHAR(2),
     level_comment VARCHAR(20),
