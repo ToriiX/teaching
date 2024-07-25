@@ -5,7 +5,7 @@
 
 Running analysis on the student info table, I learned the following that I can use to improve marketing strategies and student services:
 - Around 35 percent of my students live in the country of the language, while 53 percent live or plan on moving there.
-- Most of my students are originally from Poland.
+- Around 25 percent of my students are originally from Poland which is the country I have the most students from. 
 - A total of 88 percent of my students start at A level (A0-A2), with around 30 percent without any prior knowledge of the language. 
 - The gender distribution is around 50/50.
 - Students at B level stay the longest, while students without any prior knowledge have the shortest turnover time.
