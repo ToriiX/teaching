@@ -10,7 +10,7 @@ Running analysis on the student information I learned the following that I can u
 - The gender distribution is around 50/50.
 - Students at B level stay the longest, while students without any prior knowledge have the shortest turnover time.
 - Students at the highest level are learning the language for pleasure such as reading books and travelling, while most of the students without any prior knowledge are learning the language for travelling.
-- 
+  
 ![image](https://github.com/user-attachments/assets/3ff43885-432e-4496-a116-be532e8671b5)
 
 
