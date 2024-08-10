@@ -9,7 +9,7 @@ Running analysis on the student info table, I learned the following that I can u
 - Around 25 percent of my students are originally from Poland which is the country I have the most students from. 
 - A total of 88 percent of my students start at A level (A0-A2), with around 30 percent without any prior knowledge of the language. 
 - The gender distribution is around 50/50.
-- Students at B level stay the longest, while students without any prior knowledge have the shortest turnover time.
+- Students at the B level tend to remain enrolled for the longest duration, whereas those without any prior knowledge exhibit the shortest retention period.
 - Students at the highest level are learning the language for pleasure such as reading books and travelling, while most of the students without any prior knowledge are learning the language for travelling.
 
   
